@@ -1,4 +1,4 @@
-package JavaAvancado;
+package JavaAvancado.aula1;
 
 import java.util.function.BiPredicate;
 import java.util.function.UnaryOperator;

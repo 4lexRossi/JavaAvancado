@@ -1,4 +1,4 @@
-package JavaAvancado;
+package JavaAvancado.aula1;
 
 import java.util.Arrays;
 

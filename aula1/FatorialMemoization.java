@@ -1,4 +1,4 @@
-package JavaAvancado.Fatorial;
+package JavaAvancado.aula1;
 
 import java.util.HashMap;
 import java.util.Map;

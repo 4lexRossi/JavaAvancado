@@ -1,8 +1,8 @@
-package JavaAvancado;
+package JavaAvancado.aula1;
 
 import java.util.function.UnaryOperator;
 
-public class Aula1ParadigmaFuncional {
+public class ParadigmaFuncional {
     public static void main(String[] args) {
         //conceito imperativo
         int valor = 10;

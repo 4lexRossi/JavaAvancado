@@ -1,4 +1,4 @@
-package JavaAvancado.FuncaoLambdaEAnonima;
+package JavaAvancado.aula1.FuncaoLambdaEAnonima;
 
 public class FuncaoComLambda {
     public static void main(String[] Args) {

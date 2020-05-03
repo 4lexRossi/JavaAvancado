@@ -1,4 +1,4 @@
-package JavaAvancado.Fatorial;
+package JavaAvancado.aula1;
 
 public class FatorialRecursivo {
     public static void main(String[] args) {
