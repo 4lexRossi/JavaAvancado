@@ -5,32 +5,44 @@ Esse repo é uma série de aulas em Java Avaçado da plataforma
 
 <h2 align="center">Aula 1 Paradigma Funcional</h2>
 
-## Módulo I - Entenda o que é Paradigma Funcional
+### Módulo I - Entenda o que é Paradigma Funcional
 
-## Módulo II - Funções e Imutabilidade em Paradigma Funcional
+### Módulo II - Funções e Imutabilidade em Paradigma Funcional
 
-## Módulo III - Lambda no Java
+### Módulo III - Lambda no Java
 
-## Módulo IV - Recursividade em Java
+### Módulo IV - Recursividade em Java
 
 <h2 align="center">Aula 2 Interfaces Funcionais</h2>
 
-## Módulo I - Facilitando o código da API
+### Módulo I - Facilitando o código da API
 
-## Módulo II - Funções de Alta Ordem
+### Módulo II - Funções de Alta Ordem
 
-## Módulo III - Aprenda sobre paramêtro da função
+### Módulo III - Aprenda sobre paramêtro da função
 
-## Módulo IV - Iterações entre as funções
+### Módulo IV - Iterações entre as funções
 
-## Módulo V - Conclusão das funções em Java
+### Módulo V - Conclusão das funções em Java
+
+<h2 align="center">Aula 3 Processamento Assíncrono e Paralelo</h2>
+
+### Módulo I - O que é síncrono assíncrono?
+
+### Módulo II - Desenvolvendo uma API de Threads do Java
+
+### Módulo III - Execução da API do Java 8
+
+### Módulo IV - Utilizando o Parallel Streams
 
 <h2 align="center">Instalação</h2>
 
-## requisitos necessários ter instalado
+### requisitos necessários
+Ter instalado em sua máquina
 `Java 1.8`
 `Gradle 6.3`
-`IntelliJ IDEA`
+`IntelliJ IDEA 11`
+então
 
 1. clone o repositório `git clone https://github.com/4lexRossi/JavaAvancado.git`
 
