@@ -35,6 +35,12 @@ Esse repo é uma série de aulas em Java Avaçado da plataforma
 
 ### Módulo IV - Utilizando o Parallel Streams
 
+<h2 align="center">Aula 4 Por dentro da modularização do Java</h2>
+
+### Módulo I - Entendendo o que é modularização por meio do Jigsaw
+
+### Módulo II - Iniciando um projeto com Java Modular
+
 <h2 align="center">Instalação</h2>
 
 ### requisitos necessários
