@@ -41,6 +41,14 @@ Esse repo é uma série de aulas em Java Avaçado da plataforma
 
 ### Módulo II - Iniciando um projeto com Java Modular
 
+<h2 align="center">Aula 5 Novidades do Java 10</h2>
+
+### Módulo I - Aplicando novos releases na linguagem prática I
+
+### Módulo II - Aplicando novos releases na linguagem prática II
+
+### Módulo III - Aplicando novos releases na linguagem prática III
+
 <h2 align="center">Instalação</h2>
 
 ### requisitos necessários
