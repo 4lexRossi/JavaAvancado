@@ -43,21 +43,20 @@ Esse repo é uma série de aulas em Java Avaçado da plataforma
 
 <h2 align="center">Aula 5 Novidades do Java 10</h2>
 
-<h3 align="center">
-<p>Módulo I - Aplicando novos releases na linguagem prática I</p>
+<h3>Módulo I - Aplicando novos releases na linguagem prática I</h3>
 
-<p>Módulo II - Aplicando novos releases na linguagem prática II</p>
+<h3>Módulo II - Aplicando novos releases na linguagem prática II</h3>
 
-<p>Módulo III - Aplicando novos releases na linguagem prática III</p>
-</h3>
+<h3>Módulo III - Aplicando novos releases na linguagem prática III</h3>
+
 <h2 align="center">Aula 6 Novidades do Java 11</h2>
-<h3 align="center">
-<p>Módulo I - O que mudou no Java 11</p>
 
-<p>Módulo II - Aplicando no código as novas features parte I</p>
+<h3>Módulo I - O que mudou no Java 11</h3>
 
-<p>Módulo III - Aplicando no código as novas features parte II</p>
-</h3>
+<h3>Módulo II - Aplicando no código as novas features parte I</h3>
+
+<h3>Módulo III - Aplicando no código as novas features parte II</h3>
+
 <h2 align="center">Instalação</h2>
 
 ### requisitos necessários
